@@ -6,6 +6,10 @@
     background-color: #676767;
 }
 
+.bg-color-three-reasons {
+    background-color: #ffffff;
+}
+
 .ul-menu-color-home {
     background-color: #e67e22;
 }
@@ -22,9 +26,6 @@
     background-color: #525252;
 }
 
-.bg-color-three-reasons {
-    background-color: white;
-}
 
 /*-----Special paddings/margins/texts/etc-------*/
 
@@ -46,8 +47,10 @@ h1,h2,h3,h4 {
     display: inline-block;
 }
 
+/* -- we specify the row as a table and the child column as table cells, which ensures the colums WILL remain equal height regalrdess of content*/
+
 .section-column {
-    padding: 0px 30px 30px;
+    padding: 0 30px 30px;
     float: none;
     display: table-cell;
 }
@@ -55,6 +58,8 @@ h1,h2,h3,h4 {
 .row-table {
     display: table;
 }
+
+/* used to style heading font */
 
 .section-heading {
     font-family: "Exo", sans-serif;
