@@ -5,6 +5,6 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-# This was my mini-project, which served as a precusor to my actual milestone project#
+# This was my mini-project, which served as a precusor to my actual milestone project
 
-## This mini-project utilises Bootstrap ##
+# This mini-project utilises HTML5/CSS3 ##
