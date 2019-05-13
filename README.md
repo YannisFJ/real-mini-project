@@ -7,7 +7,8 @@
 
 # This website is my online CV profile
 
-# This mini-project utilises HTML5/CSS3 ##
+
 
 **Mini Project**
 
+This mini-project utilises HTML5/CSS3.
