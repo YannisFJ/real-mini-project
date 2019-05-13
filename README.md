@@ -5,6 +5,9 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-# This was my mini-project, which served as a precusor to my actual milestone project
+# This website is my online CV profile
 
 # This mini-project utilises HTML5/CSS3 ##
+
+**Mini Project**
+
